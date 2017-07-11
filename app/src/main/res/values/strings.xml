@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P8 Maps</string>
+    <string name="branch">Choose Branch</string>
+
+    <string-array name="branch_arrays">
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
